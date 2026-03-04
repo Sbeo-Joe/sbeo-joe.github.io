@@ -1,10 +1,21 @@
 baseURL: "https://sbeo-joe.github.io/sbeo-studio.io/"
-title: "Sbeo Brain Daily"
+title: "Sbeo Daily"
 description: "AI-curated tech, market & politics news — no smooth brain required"
 copyright: "[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)"
 theme: "seotax"
 defaultContentLanguage: "ko"
-languageCode: "ko-kr"
+defaultContentLanguageInSubdir: false
+languages:
+  ko:
+    languageName: "한국어"
+    weight: 1
+    title: "Sbeo Daily"
+    description: "AI가 매일 수집하는 테크·경제·정치 뉴스"
+  en:
+    languageName: "English"
+    weight: 2
+    title: "Sbeo Daily"
+    description: "AI-curated tech, market & politics news — no smooth brain required"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
