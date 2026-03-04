@@ -33,7 +33,7 @@ params:
     categories: true
     recentPosts: true
   social:
-    github: "https://github.com/goodksjj"
+    github: "https://github.com/Sbeo-Joe/sbeo-joe.github.io"
   search:
     enabled: true
   tableOfContents:
