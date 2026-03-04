@@ -1,6 +1,6 @@
 baseURL: "https://sbeo-joe.github.io/sbeo-studio.io/"
-title: "SBEO 인사이트"
-description: "매일 업데이트되는 미국 테크/비즈니스 뉴스 한국어 블로그"
+title: "Sbeo Brain Daily"
+description: "AI-curated tech, market & politics news — no smooth brain required"
 copyright: "[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)"
 theme: "seotax"
 defaultContentLanguage: "ko"
