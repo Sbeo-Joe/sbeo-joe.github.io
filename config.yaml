@@ -1,0 +1,47 @@
+baseURL: "https://goodksjj.github.io/sbeo-studio.io/"
+title: "SBEO 인사이트"
+description: "매일 업데이트되는 미국 테크/비즈니스 뉴스 한국어 블로그"
+copyright: "[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)"
+theme: "seotax"
+defaultContentLanguage: "ko"
+languageCode: "ko-kr"
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+minify:
+  disableXML: true
+  minifyOutput: true
+params:
+  author: "SBEO"
+  keywords: ["뉴스", "기술", "AI", "경제", "블로그"]
+  posts:
+    section: "posts"
+  menu:
+    categories: true
+    recentPosts: true
+  social:
+    github: "https://github.com/goodksjj"
+  search:
+    enabled: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+markup:
+  goldmark:
+    extensions:
+      typographer:
+        disable: true
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+permalinks:
+  posts: "/blog/:slugorcontentbasename/"
+disableKinds: ["term"]
+ignoreFiles: ["_page.md", "README.md"]
