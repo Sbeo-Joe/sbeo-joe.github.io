@@ -1,0 +1,3 @@
+{{ range .Params.tags }}
+<a href="{{ "search/" | absURL }}?tags={{ . }}" class="tag">#{{ . }}</a>
+{{ end }}
