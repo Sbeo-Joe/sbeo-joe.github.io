@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d2818"/>
+      <stop offset="100%" style="stop-color:#1a3a2a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1b5e20"/>
+      <stop offset="100%" style="stop-color:#2e7d32"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <!-- Subtle grid -->
+  <line x1="0" y1="90" x2="800" y2="90" stroke="#ffffff06" stroke-width="1"/>
+  <line x1="0" y1="180" x2="800" y2="180" stroke="#ffffff06" stroke-width="1"/>
+  <line x1="0" y1="270" x2="800" y2="270" stroke="#ffffff06" stroke-width="1"/>
+  <line x1="0" y1="360" x2="800" y2="360" stroke="#ffffff06" stroke-width="1"/>
+  <!-- Chart bars -->
+  <rect x="130" y="280" width="50" height="70" rx="6" fill="#4caf5060"/>
+  <rect x="210" y="230" width="50" height="120" rx="6" fill="#4caf5080"/>
+  <rect x="290" y="190" width="50" height="160" rx="6" fill="#4caf50a0"/>
+  <rect x="370" y="150" width="50" height="200" rx="6" fill="#4caf50c0"/>
+  <rect x="450" y="110" width="50" height="240" rx="6" fill="#4caf50"/>
+  <rect x="530" y="130" width="50" height="220" rx="6" fill="#66bb6a"/>
+  <rect x="610" y="90" width="50" height="260" rx="6" fill="#81c784"/>
+  <!-- Trend line -->
+  <polyline points="155,290 235,250 315,210 395,165 475,125 555,145 635,105" fill="none" stroke="#b9f6ca" stroke-width="3" stroke-dasharray="6,3"/>
+  <!-- Arrow up -->
+  <polygon points="635,75 655,105 615,105" fill="#b9f6ca"/>
+  <!-- Dollar signs -->
+  <text x="155" y="75" font-family="Arial" font-size="28" font-weight="bold" fill="#4caf5040">$</text>
+  <text x="85" y="200" font-family="Arial" font-size="22" font-weight="bold" fill="#4caf5040">$</text>
+  <!-- Chart base line -->
+  <line x1="110" y1="355" x2="690" y2="355" stroke="#4caf5050" stroke-width="2"/>
+  <!-- Label -->
+  <rect x="240" y="378" width="320" height="48" rx="24" fill="url(#accent)" opacity="0.9"/>
+  <text x="400" y="409" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="3">ECONOMY</text>
+</svg>

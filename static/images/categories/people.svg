@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1000"/>
+      <stop offset="100%" style="stop-color:#2d1f00"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e65100"/>
+      <stop offset="100%" style="stop-color:#ff6f00"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <!-- Connecting lines (network) -->
+  <line x1="400" y1="200" x2="250" y2="310" stroke="#ff980030" stroke-width="1.5"/>
+  <line x1="400" y1="200" x2="550" y2="310" stroke="#ff980030" stroke-width="1.5"/>
+  <line x1="400" y1="200" x2="155" y2="230" stroke="#ff980020" stroke-width="1.5"/>
+  <line x1="400" y1="200" x2="645" y2="230" stroke="#ff980020" stroke-width="1.5"/>
+  <line x1="250" y1="310" x2="155" y2="230" stroke="#ff980020" stroke-width="1"/>
+  <line x1="550" y1="310" x2="645" y2="230" stroke="#ff980020" stroke-width="1"/>
+  <!-- Center person (large) -->
+  <circle cx="400" cy="155" r="38" fill="#ff980040" stroke="#ff9800" stroke-width="2.5"/>
+  <circle cx="400" cy="145" r="18" fill="#ff9800"/>
+  <path d="M 362 200 Q 400 175 438 200 L 442 230 Q 400 250 358 230 Z" fill="#ff9800"/>
+  <!-- Left person -->
+  <circle cx="250" cy="275" r="26" fill="#ffb30040" stroke="#ffb300" stroke-width="2"/>
+  <circle cx="250" cy="267" r="13" fill="#ffb300"/>
+  <path d="M 224 298 Q 250 282 276 298 L 279 318 Q 250 330 221 318 Z" fill="#ffb300"/>
+  <!-- Right person -->
+  <circle cx="550" cy="275" r="26" fill="#ff700040" stroke="#ff7000" stroke-width="2"/>
+  <circle cx="550" cy="267" r="13" fill="#ff7000"/>
+  <path d="M 524 298 Q 550 282 576 298 L 579 318 Q 550 330 521 318 Z" fill="#ff7000"/>
+  <!-- Far left person (small) -->
+  <circle cx="155" cy="200" r="18" fill="#ffa00020" stroke="#ffa000" stroke-width="1.5"/>
+  <circle cx="155" cy="194" r="9" fill="#ffa000"/>
+  <path d="M 137 214 Q 155 204 173 214 L 175 228 Q 155 236 135 228 Z" fill="#ffa000"/>
+  <!-- Far right person (small) -->
+  <circle cx="645" cy="200" r="18" fill="#ffa00020" stroke="#ffa000" stroke-width="1.5"/>
+  <circle cx="645" cy="194" r="9" fill="#ffa000"/>
+  <path d="M 627 214 Q 645 204 663 214 L 665 228 Q 645 236 625 228 Z" fill="#ffa000"/>
+  <!-- Heart accent -->
+  <text x="388" y="100" font-size="28" fill="#ff9800">♥</text>
+  <!-- Label -->
+  <rect x="240" y="358" width="320" height="48" rx="24" fill="url(#accent)" opacity="0.9"/>
+  <text x="400" y="389" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="3">PEOPLE</text>
+</svg>

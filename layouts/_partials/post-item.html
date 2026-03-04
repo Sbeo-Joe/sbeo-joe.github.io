@@ -23,7 +23,12 @@
     {{ end }}
   </div>
 
-  {{ $coverImage := cond .Params.thumbnail .Params.thumbnail .Params.cover }}
+  {{- $explicitImg := cond .Params.thumbnail .Params.thumbnail .Params.cover -}}
+  {{- $cat := index .Params.categories 0 | default "" | lower -}}
+  {{- $catMap := dict "기술" "tech" "경제" "economy" "정치" "politics" "사람" "people" "tech" "tech" "economy" "economy" "politics" "politics" "people" "people" -}}
+  {{- $catSlug := index $catMap $cat | default "tech" -}}
+  {{- $fallbackImg := printf "/images/categories/%s.svg" $catSlug -}}
+  {{- $coverImage := cond $explicitImg $explicitImg $fallbackImg -}}
 
   <div class="post-content-area{{ if $coverImage }} has-cover{{ end }}">
     {{ with cond .Params.cover .Params.cover .Params.thumbnail }}
