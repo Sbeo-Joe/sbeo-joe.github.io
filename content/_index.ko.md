@@ -1,3 +1,3 @@
 ---
-title: "SBEO 인사이트"
+title: "SBEO Daily"
 ---
