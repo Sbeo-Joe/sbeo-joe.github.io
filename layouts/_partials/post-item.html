@@ -27,7 +27,7 @@
   {{- $cat := index .Params.categories 0 | default "" | lower -}}
   {{- $catMap := dict "기술" "tech" "경제" "economy" "정치" "politics" "사람" "people" "tech" "tech" "economy" "economy" "politics" "politics" "people" "people" -}}
   {{- $catSlug := index $catMap $cat | default "tech" -}}
-  {{- $fallbackImg := printf "/images/categories/%s.svg" $catSlug -}}
+  {{- $fallbackImg := printf "/images/categories/%s.png" $catSlug -}}
   {{- $coverImage := cond $explicitImg $explicitImg $fallbackImg -}}
 
   <div class="post-content-area{{ if $coverImage }} has-cover{{ end }}">
