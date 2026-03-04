@@ -32,6 +32,7 @@ params:
   menu:
     categories: true
     recentPosts: true
+    profileImage: "/images/avatar.png"
   social:
     github: "https://github.com/Sbeo-Joe/sbeo-joe.github.io"
   search:
