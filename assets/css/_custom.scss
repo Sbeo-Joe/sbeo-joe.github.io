@@ -1,0 +1,28 @@
+// ── 텍스트 강조 색상 ──────────────────────────────────────────
+// 사용법 (마크다운 본문에서):
+//   <mark>노란 형광 강조</mark>
+//   <span class="hl-red">빨간 강조</span>
+//   <span class="hl-blue">파란 강조</span>
+
+mark {
+  background-color: #fff176;
+  color: inherit;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.hl-red {
+  background-color: #ffcdd2;
+  color: #c62828;
+  padding: 0 3px;
+  border-radius: 2px;
+  font-weight: 500;
+}
+
+.hl-blue {
+  background-color: #bbdefb;
+  color: #1565c0;
+  padding: 0 3px;
+  border-radius: 2px;
+  font-weight: 500;
+}
