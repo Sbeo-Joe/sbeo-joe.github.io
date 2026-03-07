@@ -34,7 +34,7 @@ params:
     recentPosts: true
     profileImage: "/images/avatar.png"
   social:
-    github: "https://github.com/Sbeo-Joe/sbeo-joe.github.io"
+    instagram: "https://www.instagram.com/roty.eco/"
   search:
     enabled: true
   tableOfContents:
