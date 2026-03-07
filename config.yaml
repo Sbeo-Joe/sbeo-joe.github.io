@@ -16,6 +16,11 @@ languages:
     weight: 2
     title: "Sbeo Daily"
     description: "AI-curated tech, market & politics news — no smooth brain required"
+  ja:
+    languageName: "日本語"
+    weight: 3
+    title: "Sbeo Daily"
+    description: "AIが毎日収集するテック・経済・政治ニュース"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
