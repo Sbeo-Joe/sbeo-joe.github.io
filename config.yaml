@@ -33,6 +33,7 @@ params:
     categories: true
     recentPosts: true
     profileImage: "/images/avatar.png"
+  adsenseId: "ca-pub-2080587021049012"
   social:
     instagram: "https://www.instagram.com/roty.eco/"
   search:

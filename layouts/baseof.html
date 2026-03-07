@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.Language.Lang .Site.LanguageCode }}" dir="{{ default `ltr` .Site.Language.LanguageDirection }}">
+<head>
+  {{ partial "head" . }}
+  <script>window.__HUGO_BASE__ = "{{ strings.TrimSuffix "/" .Site.BaseURL }}";</script>
+  {{- if and hugo.IsProduction .Site.Params.adsenseId }}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsenseId }}"
+       crossorigin="anonymous"></script>
+  {{- end }}
+</head>
+<body class="site-kind-{{ .Kind }} site-type-{{ .Type }} site-layout-{{ .Layout }}"
+      dir="{{ default `ltr` .Site.Language.LanguageDirection }}">
+
+  <div class="scroll-progress">
+    <div class="scroll-progress-bar"></div>
+  </div>
+
+  <label class="image-overlay-wrap" for="image-overlay-toggle">
+    <input class="hidden toggle" type="checkbox" id="image-overlay-toggle">
+    <div class="image-overlay"></div>
+  </label>
+
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <div class="menu-overlay"></div>
+
+  <main class="container">
+    {{ template "menu-container" . }} <!-- Left menu -->
+
+    <div class="main-wrap">
+      {{ template "header" . }} <!-- Header above page content -->
+      {{ template "content" . }} <!-- Page Content -->
+      {{ template "footer" . }} <!-- Footer under page content -->
+
+      <label for="menu-control" class="hidden site-menu-overlay"></label>
+    </div>
+
+    {{ template "toc-container" . }} <!-- Right ToC -->
+    {{ template "toolbar" . }} <!-- Right corner toolbar -->
+  </main>
+</body>
+</html>
