@@ -1,5 +1,5 @@
 <div class="menu-categories">
-  {{ $pages := partialCached "pages/posts" . "posts" }}
+  {{ $pages := partialCached "pages/posts" . (printf "posts-%s" .Lang) }}
   {{/* Categories label for root category */}}
   <input type="checkbox" class="hidden toggle" id="categories-control" checked />
   <label for="categories-control" class="categories-label categories-toggle">
@@ -14,7 +14,7 @@
   </label>
   {{/* Categories list for parent category */}}
   <ul>
-    {{ $treeL1 := partialCached "categories/tree" . "categories" }}
+    {{ $treeL1 := partialCached "categories/tree" . (printf "categories-%s" .Lang) }}
     {{ range $category1 := (partial "keys" $treeL1) }}
     {{/* Count pages including parent category */}}
     {{ $pagesL1 := slice }}

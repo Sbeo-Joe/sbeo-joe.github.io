@@ -1,0 +1,5 @@
+{{ $map := dict .Lang .Permalink }}
+{{ range .Translations }}
+  {{ $map = merge $map (dict .Lang .Permalink) }}
+{{ end }}
+{{ $map | jsonify }}

@@ -1,7 +1,7 @@
 {{ define "content" }}
 {{- /* ... */ -}}
 {{- $tree := dict -}}
-{{- range partialCached "pages/posts" . "posts" -}}
+{{- range partialCached "pages/posts" . (printf "posts-%s" .Lang) -}}
   {{ if .Params.tags }}
     {{- range .Params.tags -}}
       {{- $count := default 0 (index $tree .) -}}
