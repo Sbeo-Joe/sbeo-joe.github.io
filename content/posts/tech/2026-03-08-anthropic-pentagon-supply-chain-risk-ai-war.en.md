@@ -4,7 +4,7 @@ date: 2026-03-08T06:24:38+09:00
 layout: "post"
 description: "The U.S. Department of Defense officially designated Anthropic as a 'National Security Supply Chain Risk' — even as Claude was actively deployed in Iran war operations. Anthropic's CEO vowed to challenge the designation in court, while OpenAI's robotics chief resigned in protest over a Pentagon deal."
 categories:
-  - Technology
+  - Tech
 tags:
   - "Anthropic"
   - "Pentagon"

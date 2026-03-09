@@ -4,7 +4,7 @@ date: 2026-03-09T05:54:18+09:00
 layout: "post"
 description: "Microsoft's AI-quantum fusion for chemistry research, the University of Manchester's verification of exotic molecular behavior, and German quantum startup QVLS-iLabs' $17.4 million funding round were all announced in the same week. Signs that quantum computing is moving beyond the lab and into the industrialization phase are emerging simultaneously."
 categories:
-  - Technology
+  - Tech
 tags:
   - "Quantum Computing"
   - "Microsoft"

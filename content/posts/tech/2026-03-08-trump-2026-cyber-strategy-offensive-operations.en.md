@@ -4,7 +4,7 @@ date: 2026-03-08T06:24:38+09:00
 layout: "post"
 description: "The Trump administration unveiled its long-awaited 2026 National Cybersecurity Strategy, authorizing more aggressive offensive cyber operations, streamlining regulations, and demanding that private companies take a bigger role in national cyber defense — all against the backdrop of the Iran war and rising threats from China and Russia."
 categories:
-  - Technology
+  - Tech
 tags:
   - "Cybersecurity Strategy"
   - "Trump"

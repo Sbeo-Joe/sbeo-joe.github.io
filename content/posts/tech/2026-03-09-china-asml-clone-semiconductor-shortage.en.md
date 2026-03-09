@@ -4,7 +4,7 @@ date: 2026-03-09T05:51:48+09:00
 layout: "post"
 description: "China's government has officially announced plans to develop domestic semiconductor lithography equipment to replace the Netherlands' ASML. Simultaneously, Beijing is warning of a potential global chip shortage, escalating supply chain tensions."
 categories:
-  - Technology
+  - Tech
 tags:
   - "Semiconductors"
   - "ASML"

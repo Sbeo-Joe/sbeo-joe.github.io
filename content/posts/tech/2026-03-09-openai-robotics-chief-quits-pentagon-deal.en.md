@@ -4,7 +4,7 @@ date: 2026-03-09T05:53:07+09:00
 layout: "post"
 description: "OpenAI's robotics hardware lead Caitlin Kalinowski publicly resigned immediately after the company signed an AI contract with the Pentagon, citing concerns over warfare and surveillance applications. The backlash against AI militarization has now escalated to executive-level departures, raising alarms across the startup defense contracting landscape."
 categories:
-  - Technology
+  - Tech
 tags:
   - "OpenAI"
   - "AI Ethics"
