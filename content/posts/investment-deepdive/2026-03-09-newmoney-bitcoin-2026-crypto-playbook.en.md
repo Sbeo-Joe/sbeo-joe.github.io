@@ -4,7 +4,7 @@ date: 2026-03-09T17:12:08+09:00
 layout: "post"
 description: "New Money's Brian Jung returns after five months to lay out his 2026 crypto investment strategy. Bitcoin is in a bear market with the $30K–$40K zone representing a major buying opportunity, while AI agent crypto, Aave, Hyperliquid, and Pudgy Penguins top his list of next-cycle narratives."
 categories:
-  - Investment
+  - Investment Deep Dive
 tags:
   - "Bitcoin"
   - "Crypto"

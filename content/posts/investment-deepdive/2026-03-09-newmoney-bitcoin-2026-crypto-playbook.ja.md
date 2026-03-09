@@ -4,7 +4,7 @@ date: 2026-03-09T17:13:05+09:00
 layout: "post"
 description: "ニューマネー(New Money)のBrian Jungが5か月ぶりに復帰し、2026年のクリプト投資戦略を公開しました。ビットコインは現在のベアマーケットで$30K〜$40Kが大口の買い場であり、次のサイクルの中心的テーマとしてAIエージェントクリプト、Aave、Hyperliquid、Pudgy Penguinsを挙げています。"
 categories:
-  - 投資
+  - 投資深掘り
 tags:
   - "ビットコイン"
   - "クリプト"

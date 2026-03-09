@@ -4,7 +4,7 @@ date: 2026-03-09T17:10:30+09:00
 layout: "post"
 description: "As Iran war fears triggered a double-digit crypto selloff in Bitcoin and Ethereum, Warren Buffett's historically undervalued holdings are drawing fresh attention. We examine why cash-flow-based value stocks prove their defensive credentials in every crisis."
 categories:
-  - Investment
+  - Investment Deep Dive
 tags:
   - "Warren Buffett"
   - "Berkshire Hathaway"

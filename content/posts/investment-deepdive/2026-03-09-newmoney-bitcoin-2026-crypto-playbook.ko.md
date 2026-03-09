@@ -4,7 +4,7 @@ date: 2026-03-09T15:02:06+09:00
 layout: "post"
 description: "뉴머니(New Money) 채널 Brian Jung이 5개월 만에 복귀하며 공개한 2026 크립토 투자 전략. 비트코인은 현재 베어마켓으로 $30K–$40K 저점 구간이 대형 매수 기회이며, 다음 사이클 핵심 내러티브로 AI 에이전트 크립토, Aave, Hyperliquid, Pudgy Penguins를 지목했다."
 categories:
-  - 투자
+  - 투자 심층분석
 tags:
   - "비트코인"
   - "크립토"
