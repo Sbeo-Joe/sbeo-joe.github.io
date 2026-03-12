@@ -1,5 +1,5 @@
 ---
-title: "\"Only in Japan!\" — An Austrian's Unstoppable Amazement at <mark>Japanese Food</mark> and What It Reveals About Japanese Culture"
+title: "\"Only in Japan!\" — An Austrian's Unstoppable Amazement at Japanese Food and What It Reveals About Japanese Culture"
 date: 2026-03-12T19:40:27+09:00
 layout: "post"
 description: "An Austrian visitor experienced a meal in Japan that moved them unlike anything before. But what exactly created that feeling? The reason Japanese food continues to captivate people worldwide — and why Japan's senior generation is the true guardian of this extraordinary culinary heritage."

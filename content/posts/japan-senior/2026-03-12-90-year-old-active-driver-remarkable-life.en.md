@@ -1,5 +1,5 @@
 ---
-title: "She Got Her Driver's License at 63 and Is Still Behind the Wheel at <mark>90</mark>: A Life of Extraordinary Resilience"
+title: "She Got Her Driver's License at 63 and Is Still Behind the Wheel at 90: A Life of Extraordinary Resilience"
 date: 2026-03-12T19:33:08+09:00
 layout: "post"
 description: "Widowed at 38, she raised two children alone in poverty before getting her driver's license at 63. Now 90, she still drives mountain roads on her own. Through floods, disaster shelters, and the loss of her son — a story of human resilience set in Japan's remote countryside."

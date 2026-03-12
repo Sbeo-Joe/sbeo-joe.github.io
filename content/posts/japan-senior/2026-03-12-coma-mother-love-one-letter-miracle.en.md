@@ -1,5 +1,5 @@
 ---
-title: "\"I Love You!\" — The <mark>One Letter</mark> a Comatose Mother Wrote Back That Made the Whole Family Weep"
+title: "\"I Love You!\" — The One Letter a Comatose Mother Wrote Back That Made the Whole Family Weep"
 date: 2026-03-12T19:33:08+09:00
 layout: "post"
 description: "A husband stood at his wife's hospital bedside as she lay in a coma and cried out: \"Yoshiko! I love you!\" In that moment, the woman who had shown no response returned just one single letter. A true story about the power of words at the end of life, and the quiet love at the heart of Japanese marriage."

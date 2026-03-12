@@ -1,5 +1,5 @@
 ---
-title: "It's Not Your Posture or Your Age — The Surprising Truth Behind Lower Back Pain Affecting <mark>80%</mark> of Japanese People"
+title: "It's Not Your Posture or Your Age — The Surprising Truth Behind Lower Back Pain Affecting 80% of Japanese People"
 date: 2026-03-12T19:40:27+09:00
 layout: "post"
 description: "About 80% of Japanese people experience lower back pain. Most assume it's caused by poor posture or aging — but the latest medical research points to a surprising culprit. What seniors especially need to know about the real cause of back pain, and how to stop it from becoming chronic."

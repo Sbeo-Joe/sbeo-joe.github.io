@@ -1,5 +1,5 @@
 ---
-title: "Wives Are Filing for \"Senior Divorce\" at Record Rates — <mark>40,000 Cases</mark> Reveal What Gets Husbands Left Behind"
+title: "Wives Are Filing for \"Senior Divorce\" at Record Rates — 40,000 Cases Reveal What Gets Husbands Left Behind"
 date: 2026-03-12T19:40:27+09:00
 layout: "post"
 description: "Japan is seeing a surge in late-life divorce petitions — and about 70% are filed by wives. An analysis of over 40,000 cases has identified five common traits in husbands who get left behind. What's breaking up long marriages after retirement, and how to build a happy life together in old age."

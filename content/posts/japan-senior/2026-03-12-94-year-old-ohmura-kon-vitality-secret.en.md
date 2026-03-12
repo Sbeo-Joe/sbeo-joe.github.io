@@ -1,5 +1,5 @@
 ---
-title: "\"One Lung, One Ear — No Problem\" — What <mark>94-Year-Old</mark> Actor Ohmura Kon Teaches Us About Aging Without Fear"
+title: "\"One Lung, One Ear — No Problem\" — What 94-Year-Old Actor Ohmura Kon Teaches Us About Aging Without Fear"
 date: 2026-03-12T19:35:52+09:00
 layout: "post"
 description: "Japanese actor Ohmura Kon lost a lung to surgery and most of his hearing in one ear — yet at 94, he laughs and says he's perfectly fine. In a conversation with leading geriatric physician Dr. Hideki Wada, he reveals the life philosophy and daily habits behind his remarkable vitality."
